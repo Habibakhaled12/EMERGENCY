@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\emergency",
+    "\\emergency.core",
+    "\\emergency.core\\bin",
+    "\\emergency.core\\dto",
+    "\\emergency.core\\entity",
+    "\\emergency.reposatoryy",
+    "\\emergency.reposatoryy\\dbcontext",
+    "\\emergency.reposatoryy\\Migrations",
+    "\\emergency\\Controllers"
+  ],
+  "SelectedNode": "\\emergency\\Controllers\\HospitalsController.cs",
+  "PreviewInSolutionExplorer": false
+}

@@ -1,0 +1,61 @@
+D:\emergency\emergency.core\bin\Debug\net6.0\emergency.core.deps.json
+D:\emergency\emergency.core\bin\Debug\net6.0\emergency.core.dll
+D:\emergency\emergency.core\bin\Debug\net6.0\emergency.core.pdb
+D:\emergency\emergency.core\obj\Debug\net6.0\emergency.core.GeneratedMSBuildEditorConfig.editorconfig
+D:\emergency\emergency.core\obj\Debug\net6.0\emergency.core.AssemblyInfoInputs.cache
+D:\emergency\emergency.core\obj\Debug\net6.0\emergency.core.AssemblyInfo.cs
+D:\emergency\emergency.core\obj\Debug\net6.0\emergency.core.csproj.CoreCompileInputs.cache
+D:\emergency\emergency.core\obj\Debug\net6.0\emergency.core.dll
+D:\emergency\emergency.core\obj\Debug\net6.0\refint\emergency.core.dll
+D:\emergency\emergency.core\obj\Debug\net6.0\emergency.core.pdb
+D:\emergency\emergency.core\obj\Debug\net6.0\ref\emergency.core.dll
+D:\emergency\emergency.core\obj\Debug\net6.0\emergency.core.csproj.AssemblyReference.cache
+C:\Users\ziad salah\Downloads\emergency\emergency.core\bin\Debug\net6.0\emergency.core.deps.json
+C:\Users\ziad salah\Downloads\emergency\emergency.core\bin\Debug\net6.0\emergency.core.dll
+C:\Users\ziad salah\Downloads\emergency\emergency.core\bin\Debug\net6.0\emergency.core.pdb
+C:\Users\ziad salah\Downloads\emergency\emergency.core\obj\Debug\net6.0\emergency.core.csproj.AssemblyReference.cache
+C:\Users\ziad salah\Downloads\emergency\emergency.core\obj\Debug\net6.0\emergency.core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ziad salah\Downloads\emergency\emergency.core\obj\Debug\net6.0\emergency.core.AssemblyInfoInputs.cache
+C:\Users\ziad salah\Downloads\emergency\emergency.core\obj\Debug\net6.0\emergency.core.AssemblyInfo.cs
+C:\Users\ziad salah\Downloads\emergency\emergency.core\obj\Debug\net6.0\emergency.core.csproj.CoreCompileInputs.cache
+C:\Users\ziad salah\Downloads\emergency\emergency.core\obj\Debug\net6.0\emergency.core.dll
+C:\Users\ziad salah\Downloads\emergency\emergency.core\obj\Debug\net6.0\refint\emergency.core.dll
+C:\Users\ziad salah\Downloads\emergency\emergency.core\obj\Debug\net6.0\emergency.core.pdb
+C:\Users\ziad salah\Downloads\emergency\emergency.core\obj\Debug\net6.0\ref\emergency.core.dll
+C:\Users\pc\Desktop\emergency\emergency.core\bin\Debug\net6.0\emergency.core.deps.json
+C:\Users\pc\Desktop\emergency\emergency.core\bin\Debug\net6.0\emergency.core.dll
+C:\Users\pc\Desktop\emergency\emergency.core\bin\Debug\net6.0\emergency.core.pdb
+C:\Users\pc\Desktop\emergency\emergency.core\obj\Debug\net6.0\emergency.core.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\emergency\emergency.core\obj\Debug\net6.0\emergency.core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\emergency\emergency.core\obj\Debug\net6.0\emergency.core.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\emergency\emergency.core\obj\Debug\net6.0\emergency.core.AssemblyInfo.cs
+C:\Users\pc\Desktop\emergency\emergency.core\obj\Debug\net6.0\emergency.core.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\emergency\emergency.core\obj\Debug\net6.0\emergency.core.dll
+C:\Users\pc\Desktop\emergency\emergency.core\obj\Debug\net6.0\refint\emergency.core.dll
+C:\Users\pc\Desktop\emergency\emergency.core\obj\Debug\net6.0\emergency.core.pdb
+C:\Users\pc\Desktop\emergency\emergency.core\obj\Debug\net6.0\ref\emergency.core.dll
+C:\Users\Adel\Desktop\emergency (1)\emergency\emergency.core\bin\Debug\net6.0\emergency.core.deps.json
+C:\Users\Adel\Desktop\emergency (1)\emergency\emergency.core\bin\Debug\net6.0\emergency.core.dll
+C:\Users\Adel\Desktop\emergency (1)\emergency\emergency.core\bin\Debug\net6.0\emergency.core.pdb
+C:\Users\Adel\Desktop\emergency (1)\emergency\emergency.core\obj\Debug\net6.0\emergency.core.csproj.AssemblyReference.cache
+C:\Users\Adel\Desktop\emergency (1)\emergency\emergency.core\obj\Debug\net6.0\emergency.core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adel\Desktop\emergency (1)\emergency\emergency.core\obj\Debug\net6.0\emergency.core.AssemblyInfoInputs.cache
+C:\Users\Adel\Desktop\emergency (1)\emergency\emergency.core\obj\Debug\net6.0\emergency.core.AssemblyInfo.cs
+C:\Users\Adel\Desktop\emergency (1)\emergency\emergency.core\obj\Debug\net6.0\emergency.core.csproj.CoreCompileInputs.cache
+C:\Users\Adel\Desktop\emergency (1)\emergency\emergency.core\obj\Debug\net6.0\emergency.core.sourcelink.json
+C:\Users\Adel\Desktop\emergency (1)\emergency\emergency.core\obj\Debug\net6.0\emergency.core.dll
+C:\Users\Adel\Desktop\emergency (1)\emergency\emergency.core\obj\Debug\net6.0\refint\emergency.core.dll
+C:\Users\Adel\Desktop\emergency (1)\emergency\emergency.core\obj\Debug\net6.0\emergency.core.pdb
+C:\Users\Adel\Desktop\emergency (1)\emergency\emergency.core\obj\Debug\net6.0\ref\emergency.core.dll
+C:\Users\pc\Desktop\emergency (1)\emergency\emergency.core\bin\Debug\net6.0\emergency.core.deps.json
+C:\Users\pc\Desktop\emergency (1)\emergency\emergency.core\bin\Debug\net6.0\emergency.core.dll
+C:\Users\pc\Desktop\emergency (1)\emergency\emergency.core\bin\Debug\net6.0\emergency.core.pdb
+C:\Users\pc\Desktop\emergency (1)\emergency\emergency.core\obj\Debug\net6.0\emergency.core.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\emergency (1)\emergency\emergency.core\obj\Debug\net6.0\emergency.core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\emergency (1)\emergency\emergency.core\obj\Debug\net6.0\emergency.core.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\emergency (1)\emergency\emergency.core\obj\Debug\net6.0\emergency.core.AssemblyInfo.cs
+C:\Users\pc\Desktop\emergency (1)\emergency\emergency.core\obj\Debug\net6.0\emergency.core.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\emergency (1)\emergency\emergency.core\obj\Debug\net6.0\emergency.core.dll
+C:\Users\pc\Desktop\emergency (1)\emergency\emergency.core\obj\Debug\net6.0\refint\emergency.core.dll
+C:\Users\pc\Desktop\emergency (1)\emergency\emergency.core\obj\Debug\net6.0\emergency.core.pdb
+C:\Users\pc\Desktop\emergency (1)\emergency\emergency.core\obj\Debug\net6.0\ref\emergency.core.dll
